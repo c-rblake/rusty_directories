@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <stock_market>
+    <stock>
+    <symbol>AAPL</symbol>
+    <company>Apple Inc.</company>
+    <price>150.0</price>
+    </stock>
+    <stock>
+    <symbol>GOOGL</symbol>
+    <company>Alphabet Inc.</company>
+    <price>2800.0</price>
+    </stock>
+    <stock>
+    <symbol>MSFT</symbol>
+    <company>Microsoft Corporation</company>
+    <price>305.0</price>
+    </stock>
+    </stock_market>
+    

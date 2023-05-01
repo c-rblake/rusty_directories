@@ -5,6 +5,10 @@ edition = "2021"
 default-run = "my_program"
 
 [[bin]]
+name = "move_file"
+path = "src/move_file.rs"
+
+[[bin]]
 name = "create_file"
 path = "src/create_file.rs"
 
